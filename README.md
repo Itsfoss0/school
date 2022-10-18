@@ -1,0 +1,7 @@
+<h1 align="center">Second Year Units in Campus</h1>
+<hr/>
+:information_source: &nbsp;This repo contains concepts, exercises and solutions to Computer related Units I did my second year as a Computer Science Student.
+
+
+
+ 
