@@ -12,7 +12,8 @@
 </tr>
 
 <tr>
-<td><a href="./0x05-COMP_214/README.md"><img src="./docs/images/dbms.jpeg" width="175px;" height="175px;" alt="networking-fundmentals"/></a><br /><b><a href="./0x05-COMP_214/README.md">Database Systems</a></b></a></td>
+<td><a href="./0x06-COMP_213/README.md"><img src="./docs/images/dbms.jpeg" width="175px;" height="175px;" alt="networking-fundmentals"/></a><br /><b><a href="./0x05-COMP_214/README.md">Database Systems</a></b></a></td>
+<td><a href="./0x06-COMP_213/README.md"><img src="./docs/images/oop.png" width="175px;" height="175px;" alt="object-oriented-programmig"/></a><br /><b><a href="./0x06-COMP_213/README.md">Object Oriented Programming</a></b></a></td>
 </tr>
 </table>
 
