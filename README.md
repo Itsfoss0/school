@@ -1,9 +1,10 @@
-s<h1 align="center">Second Year Units in Campus</h1>
+<h1 align="center">Second Year Units in Campus</h1>
 <hr/>
 :information_source: &nbsp;This repo contains concepts, exercises and solutions to Computer related Units I did my second year as a Computer Science Student.
 <hr/>
 <br/>
 <br/>
+<div align="center">
 <table margin-left="auto" margin-right="auto" >
 <tr>
 <td><a href="./0x01-COMP_215/README.md"><img src="./docs/images/networking.jpeg" width="175px;" height="175px;" alt="networking-fundmentals"/></a><br /><b><a href="./0x01-COMP_215/README.md">Networking Fundamentals</a></b></a></td>
@@ -17,5 +18,6 @@ s<h1 align="center">Second Year Units in Campus</h1>
 <td><a href="./0x04-COMP_212/README.md"><img src="./docs/images/software-engineering.jpeg" width="175px;" height="175px;" alt="object-oriented-programmig"/></a><br /><b><a href="./0x04-COMP_212/README.md">Software Engineering</a></b></a></td>
 </tr>
 </table>
+</div>
 
  
