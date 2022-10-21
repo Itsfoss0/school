@@ -1,4 +1,4 @@
-# DATABASE SYSTEMS
+<h1 align="center">DATABASE SYSTEMS</h1>
 
 So what exactly is a database?
 
