@@ -17,3 +17,6 @@ The data in a database  should be
 * __Valid__ - The data should be correct with respect to the real world entity they represent. 
 * __Secure__ _ The data should be protected from unauthorized access. 
 * __Consistent__- Whenever two or more data elements  in a database represent related real world  entities, the values shoud  be consistent with respect to the real world entity. 
+* __Non Redundant__ - No two data elements should represent the same real world entity
+
+* __Indipendent__ -  Data at two different levels should be independent from each other so that  the changes in one level shold not affect the other level. 
