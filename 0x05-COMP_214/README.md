@@ -6,3 +6,11 @@ A database is a collection of organized interellated Data that is logically orig
 Incase you are Wondering(Which I know you are not ^_^ )  Data is generaly a set of values of quantitive or quantifiable sets of variables. 
 
 Logically related Data comprises of entities, attributes and relationships of an organization's information.
+
+### Characteristics of Database.
+
+The data in a database  should be 
+
+* __Organized/Related__
+* __Shared__ - The data is shared among different users of applications
+* __Persistent__ - The data should live beyond the scope of the process that created it. 
