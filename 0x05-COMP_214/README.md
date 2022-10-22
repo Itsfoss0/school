@@ -20,3 +20,5 @@ The data in a database  should be
 * __Non Redundant__ - No two data elements should represent the same real world entity
 
 * __Indipendent__ -  Data at two different levels should be independent from each other so that  the changes in one level shold not affect the other level. 
+* __Flexible to Change__ - The data should be flexible to change. 
+* __Recovarable__ - The data should be able to be recorved incase of damage. 
