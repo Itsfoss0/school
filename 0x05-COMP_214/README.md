@@ -14,3 +14,4 @@ The data in a database  should be
 * __Organized/Related__
 * __Shared__ - The data is shared among different users of applications
 * __Persistent__ - The data should live beyond the scope of the process that created it. 
+* __Valid__ - The data should be correct with respect to the real world entity they represent. 
