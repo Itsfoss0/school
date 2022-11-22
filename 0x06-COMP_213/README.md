@@ -8,3 +8,4 @@ Table of Contents
 * [Classes and Objects](./Chapter_03-Implementing-classes.md)
 * [Constructors and Desctructors](./Chapter_04-Constructors-and-destructors.md)
 * [Inheritance](./Chapter_05-Inheritance.md)
+* [Polymorphism](./Chapter_06-Polymorphism.md)
