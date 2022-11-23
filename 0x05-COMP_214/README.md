@@ -12,3 +12,4 @@ Table of Contents
 * [Access Methods](./Chapter_06-Acess-methods.md0x05-COMP_214/Chapter_06-Acess-methods.md)
 * [Database Architecture](./Chapter_07-Database-architecture.md)
 * [Data Independence](./Chapter_08-Data-independence.md)
+* [Database Keys](./Chapter_09-Database-keys.md)
