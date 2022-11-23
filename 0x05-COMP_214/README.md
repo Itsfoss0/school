@@ -11,3 +11,4 @@ Table of Contents
 * [Transaction Management](./0x05-COMP_214/Chapter_05-Transaction-management.md)
 * [Access Methods](./Chapter_06-Acess-methods.md0x05-COMP_214/Chapter_06-Acess-methods.md)
 * [Database Architecture](./Chapter_07-Database-architecture.md)
+* [Data Independence](./Chapter_08-Data-independence.md)
