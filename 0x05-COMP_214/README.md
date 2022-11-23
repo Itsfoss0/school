@@ -5,7 +5,6 @@ Table of Contents
 
 * [Introduction to  Database Systems](./Chapter_01-Introduction-to-database-systems.md)
 * [Introduction to Database Management systems](./Chapter_02-Introduction-to-DBMS.md)
-
 * [Database Approach](./Chapter_03-Database-approach.md)
 * [Design of core DBMS functions](./Chapter_04-Design-of-core-DBMS-functions.md)
 * [Transaction Management](./Chapter_05-Transaction-management.md)
