@@ -10,3 +10,4 @@ Table of Contents
 * [Design of core DBMS functions](./0x05-COMP_214/Chapter_04-Design-of-core-DBMS-functions.md)
 * [Transaction Management](./0x05-COMP_214/Chapter_05-Transaction-management.md)
 * [Access Methods](./Chapter_06-Acess-methods.md0x05-COMP_214/Chapter_06-Acess-methods.md)
+* [Database Architecture](./Chapter_07-Database-architecture.md)
