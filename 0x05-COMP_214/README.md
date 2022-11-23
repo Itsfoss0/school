@@ -8,3 +8,4 @@ Table of Contents
 
 * [Database Approach](./0x05-COMP_214/Chapter_03-Database-approach.md)
 * [Design of core DBMS functions](./0x05-COMP_214/Chapter_04-Design-of-core-DBMS-functions.md)
+* [Transaction Management](./0x05-COMP_214/Chapter_05-Transaction-management.md)
