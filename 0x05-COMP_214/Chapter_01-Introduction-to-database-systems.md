@@ -1,4 +1,6 @@
-# Chapter One - Introduction to Database Sytems
+<h1 align='center'>Chapter 1  - Introduction to Database Sytems</h1>
+
+******************************************
 So what exactly is a database?
 
 A database is a collection of organized interellated Data that is logically origanized to meet the information needs of an origanization.
